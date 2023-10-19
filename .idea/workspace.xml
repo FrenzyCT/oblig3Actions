@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17bc2e4b-2e28-4dfe-ab06-1c260f3743a6" name="Changes" comment="toml fil added" />
+    <list default="true" id="17bc2e4b-2e28-4dfe-ab06-1c260f3743a6" name="Changes" comment="Ny opplastning test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -176,7 +176,21 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1697702632711</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="ny rep">
+      <option name="closed" value="true" />
+      <created>1697702905515</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1697702905515</updated>
+    </task>
+    <task id="LOCAL−00007" summary="Ny opplastning test">
+      <option name="closed" value="true" />
+      <created>1697703064367</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1697703064367</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +207,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="toml fil added" />
-    <option name="LAST_COMMIT_MESSAGE" value="toml fil added" />
+    <MESSAGE value="ny rep" />
+    <MESSAGE value="Ny opplastning test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ny opplastning test" />
   </component>
 </project>
