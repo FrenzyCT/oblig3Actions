@@ -1,3 +1,5 @@
+import sys
+sys.path.append(r"C:\Users\ct\PycharmProjects\oblig3_actions")
 
 def calculate_if_leap_year(leapyear):
     if leapyear % 400 == 0:
